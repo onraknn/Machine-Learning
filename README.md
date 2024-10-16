@@ -1,2 +1,2 @@
-# Machine-learning
+# Machine-learning-examples
 student performance
